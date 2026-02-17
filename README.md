@@ -144,7 +144,7 @@ Found a bug or have an idea?
 ## 👨‍💻 Credits
 
 Designed & Developed by Jay Thakur  
-
+Contact me if you face any problem
 ---
 
 ## 📜 License
